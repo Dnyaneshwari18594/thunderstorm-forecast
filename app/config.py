@@ -1,0 +1,1 @@
+MODEL_PATH = "experiments/models/best_model.pkl"
